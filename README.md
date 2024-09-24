@@ -26,4 +26,4 @@ This is a Learning based project on React.js. This react app is built using the 
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Website Preview : <a href="https://swiggydemo-masterchef.netlify.app" target="_blank">CHEF-2-DOOR (Swiggy Clone)</a>
+- Live Website Preview : <a href="https://swiggydemo-masterchef.netlify.app" target="_blank">MasterChefDelivery(Swiggy Clone)</a>
